@@ -1,0 +1,1 @@
+The goal of this project is to create a working webpage. This will be my first real project and a test of my abilities to actually do front end programming.
